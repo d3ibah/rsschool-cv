@@ -34,3 +34,7 @@ override fun onCreate(savedInstanceState: Bundle?) {
 ## Education 
 
 * Self--education
+
+## English 
+
+* A2
