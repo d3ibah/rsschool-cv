@@ -1,1 +1,1 @@
-# rsschool-cv
+https://d3ibah.github.io/rsschool-cv/cv
